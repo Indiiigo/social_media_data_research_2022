@@ -7,11 +7,16 @@ If you reuse our material, please link to the [workshop GitHub repository](https
 
 ## Schedule
 
-Day 1 (05.12.): Introduction and Data Collection. 
+### Day 1 (05.12.): Introduction and Data Collection. 
+
 09:30-11:00	Introduction to Social Media Research 
+
 11:00-11:15	Break
+
 11:15-12:00	Introduction to Data Collection 
+
 12:00-12:30	Break
+
 12:30-14:00	Hands-on Data Collection and Examples 
 
 Day 2 (06.12): Data Preprocessing and Analysis 
